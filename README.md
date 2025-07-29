@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Revu</h1>
-<h3 align="center">A passionate Spring Boot Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saiakhil145&label=Profile%20views&color=0e75b6&style=flat" alt="saiakhil145" />
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking for help with **Front-end Development**
-- 💬 Ask me about **Java & Spring Boot**
+- 💬 Ask me about **JavaScript & DataStructures**
 - 📫 How to reach me: **sairevu1@gmail.com**
 
 ---
