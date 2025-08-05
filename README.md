@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking for help with **Front-end Development**
 - 💬 Ask me about **JavaScript & DataStructures**
-- 📫 How to reach me: **sairevu1@gmail.com**
+- 📫 How to reach me: **sairevu03@gmail.com**
 
 ---
 
