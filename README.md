@@ -12,7 +12,7 @@
 - 💻 Frontend Developer passionate about building scalable web apps  
 - 🌱 Currently mastering **React, Redux & MERN Stack**  
 - 🧠 Strong in **JavaScript & Data Structures**  
-- 🎯 Actively preparing for **Product & Service-based Companies**  
+- 🎯 Seeking opportunities in **Product & Service-based Companies**  
 - 📫 Reach me at: **sairevu03@gmail.com**
 
 ---
@@ -58,6 +58,7 @@
 - React, Node.js, MongoDB
 - Razorpay Integration
 - Role-Based Authentication  
+
 🔗 [Live Demo](https://prescripto-fullstack-ten.vercel.app/)  
 🔗 [Source Code](https://github.com/SaiAkhil145/prescripto-fullstack)
 
@@ -66,9 +67,10 @@
 ### 🔹 Forever – E-Commerce Platform
 - Stripe Payment Gateway
 - Framer Motion Animations
-- Admin Dashboard
+- Admin Dashboard  
+
 🔗 [Live Demo](https://forever-fullstack-xvrc.vercel.app/)  
-🔗 [Source Code](https://github.com/SaiAkhil145)
+🔗 [Source Code](https://github.com/SaiAkhil145/forever-fullstack)
 
 ---
 
@@ -76,7 +78,8 @@
 - MERN Stack
 - Redux Toolkit
 - Advanced Filtering  
-🔗 Coming Soon 🚧
+
+🔗 In Development 🚧
 
 ---
 
@@ -95,8 +98,8 @@
 
 ## 🏆 Achievements
 
-- ⭐ 500+ Problems Solved on Coding Platforms  
-- 🥇 HackerRank Java & JS Certified  
+- ⭐ Regular DSA Practice on LeetCode & HackerRank  
+- 🥇 HackerRank Java & JavaScript Certified  
 - 💼 Multiple Full-Stack Projects Deployed  
 - 📈 Consistent GitHub Contributor  
 
