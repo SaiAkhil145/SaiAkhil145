@@ -66,7 +66,8 @@
 ### 🔹 Forever – E-Commerce Platform
 - Stripe Payment Gateway
 - Framer Motion Animations
-- Admin Dashboard  
+- Admin Dashboard
+🔗 [Live Demo](https://forever-fullstack-xvrc.vercel.app/)  
 🔗 [Source Code](https://github.com/SaiAkhil145)
 
 ---
