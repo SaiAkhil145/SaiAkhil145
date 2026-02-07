@@ -183,9 +183,9 @@ const saiRevu = {
 
 | 🎯 Achievement | 📜 Details |
 |:---|:---|
-| 💻 **LeetCode** | 200+ Problems Solved • Regular Contributor |
+| 💻 **LeetCode** | 300+ Problems Solved • Regular Contributor |
 | 🏅 **HackerRank** | ⭐ 5 Star Java • ⭐ 5 Star JavaScript |
-| 🚀 **Projects** | 10+ Full-Stack Apps Deployed |
+| 🚀 **Projects** | 5+ Full-Stack Apps Deployed |
 | 📈 **GitHub** | 500+ Contributions • Open Source Contributor |
 | 🎓 **Learning** | Daily DSA Practice • System Design Studies |
 
