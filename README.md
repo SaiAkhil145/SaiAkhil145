@@ -48,10 +48,10 @@ const saiRevu = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-revu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sairevu1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sairevu03)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/sairevu1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiakhil145)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saiakhil145.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sai-revu-portfolio.netlify.app/)
 
 </div>
 
@@ -143,23 +143,7 @@ const saiRevu = {
 </tr>
 
 <tr>
-<td width="50%">
 
-### 📋 Task Manager
-#### Project Management Tool
-
-![MERN](https://img.shields.io/badge/MERN-Stack-success?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Features:**
-- ✅ Task CRUD Operations
-- 🎯 Advanced Filtering
-- 👥 Team Collaboration
-- 📊 Progress Tracking
-
-<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
-
-</td>
 <td width="50%">
 
 ### 🎨 More Projects Coming Soon!
