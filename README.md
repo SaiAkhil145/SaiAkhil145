@@ -21,10 +21,10 @@
     <img src="https://skillicons.dev/icons?i=netlify" height="50" />
   </a>
   <a href="https://leetcode.com/sairevu03">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
   </a>
   <a href="https://hackerrank.com/sairevu1">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50"/>
   </a>
 </p>
 <br/><br/>
