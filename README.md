@@ -17,7 +17,7 @@
   <a href="mailto:sairevu03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://sai-revu-portfolio.netlify.app/">
+  <a href="https://sai-revu-portfolio.vercel.app/">
     <img src="https://skillicons.dev/icons?i=netlify" height="50" />
   </a>
   <a href="https://leetcode.com/sairevu03">
