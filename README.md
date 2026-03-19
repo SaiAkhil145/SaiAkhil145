@@ -8,14 +8,30 @@
 
 <br/>
 
-<!-- SOCIAL ICONS — all using skillicons + icons8 for missing ones -->
-<a href="https://linkedin.com/in/sai-revu"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>&nbsp;
-<a href="https://github.com/saiakhil145"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>&nbsp;
-<a href="mailto:sairevu03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>&nbsp;
-<a href="https://sai-revu-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="45" /></a>&nbsp;
-<a href="https://leetcode.com/sairevu03"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black&labelColor=FFA116&logoWidth=30" height="45" /></a>&nbsp;
-<a href="https://hackerrank.com/sairevu1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black&labelColor=00EA64&logoWidth=30" height="45" /></a>
+<!-- SOCIAL ICONS — fixed & working -->
+<a href="https://linkedin.com/in/sai-revu">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>&nbsp;
 
+<a href="https://github.com/saiakhil145">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>&nbsp;
+
+<a href="mailto:sairevu03@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>&nbsp;
+
+<a href="https://sai-revu-portfolio.netlify.app/">
+  <img src="https://skillicons.dev/icons?i=netlify" height="45" />
+</a>&nbsp;
+
+<a href="https://leetcode.com/sairevu03">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" />
+</a>&nbsp;
+
+<a href="https://hackerrank.com/sairevu1">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" />
+</a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=saiakhil145&label=Profile+Views&color=a78bfa&style=flat-square" />
 
