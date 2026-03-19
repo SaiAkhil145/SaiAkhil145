@@ -8,13 +8,13 @@
 
 <br/>
 
-<!-- SOCIAL ICONS ONLY -->
-<a href="https://linkedin.com/in/sai-revu"><img src="https://img.shields.io/badge/--%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://sai-revu-portfolio.netlify.app/"><img src="https://img.shields.io/badge/--%23a78bfa?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="mailto:sairevu03@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/sairevu03"><img src="https://img.shields.io/badge/--FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="https://hackerrank.com/sairevu1"><img src="https://img.shields.io/badge/--00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>&nbsp;
-<a href="https://github.com/saiakhil145"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- SOCIAL ICONS — all using skillicons + icons8 for missing ones -->
+<a href="https://linkedin.com/in/sai-revu"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>&nbsp;
+<a href="https://github.com/saiakhil145"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>&nbsp;
+<a href="mailto:sairevu03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>&nbsp;
+<a href="https://sai-revu-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="45" /></a>&nbsp;
+<a href="https://leetcode.com/sairevu03"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black&labelColor=FFA116&logoWidth=30" height="45" /></a>&nbsp;
+<a href="https://hackerrank.com/sairevu1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black&labelColor=00EA64&logoWidth=30" height="45" /></a>
 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=saiakhil145&label=Profile+Views&color=a78bfa&style=flat-square" />
