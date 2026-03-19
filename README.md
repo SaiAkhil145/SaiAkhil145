@@ -7,31 +7,26 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Crafting+scalable+web+experiences+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+apps;Open+to+exciting+SDE+opportunities!" alt="Typing SVG" />
 
 <br/>
-
-<a href="https://linkedin.com/in/sai-revu">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right:10px;" />
-</a>
-
-<a href="https://github.com/saiakhil145">
-  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin-right:10px;" />
-</a>
-
-<a href="mailto:sairevu03@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right:10px;" />
-</a>
-
-<a href="https://sai-revu-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify" height="45" style="margin-right:10px;" />
-</a>
-
-<a href="https://leetcode.com/sairevu03">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" style="margin-right:10px;" />
-</a>
-
-<a href="https://hackerrank.com/sairevu1">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" />
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/sai-revu">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="https://github.com/saiakhil145">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  <a href="mailto:sairevu03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://sai-revu-portfolio.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" height="50" />
+  </a>
+  <a href="https://leetcode.com/sairevu03">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+  </a>
+  <a href="https://hackerrank.com/sairevu1">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
+  </a>
+</p>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=saiakhil145&label=Profile+Views&color=a78bfa&style=flat-square" />
 
